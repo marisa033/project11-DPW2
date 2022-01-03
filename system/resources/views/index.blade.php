@@ -173,6 +173,7 @@
          <!-- banner section end -->
       </div>
       <!-- banner bg main end -->
+      
       <!-- fashion section start -->
       <div class="fashion_section">
          <div id="main_slider" class="carousel slide" data-ride="carousel">
